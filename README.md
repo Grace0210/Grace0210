@@ -11,4 +11,4 @@ I build machine-learning tools for physics experiments and full-stack web apps.
 
 **Tech**: Python · PyTorch · Keras · NumPy/SciPy · R · Django · Next.js · SQL · Git · Linux/Bash
 
-📫 [LinkedIn](https://linkedin.com/in/shuiyi-gong) · Panda.Water0210@outlook.com
+📫 [LinkedIn](https://linkedin.com/in/shuiyi-gong) · shuiyigong0210@gmail.com
